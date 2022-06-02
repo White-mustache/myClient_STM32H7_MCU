@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "lwipopts.h": "c",
+        "my_conn.h": "c",
+        "wifi_base_config.h": "c",
+        "wwd_platform_interface.h": "c",
+        "client.h": "c",
+        "api.h": "c"
+    }
+}
